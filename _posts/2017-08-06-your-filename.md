@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 {% highlight javascript %}
 function alertme() {
