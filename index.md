@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About
+layout: default
 published: true
 ---
 
