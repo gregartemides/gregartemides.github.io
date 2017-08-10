@@ -18,7 +18,7 @@ It borrows heavily from React, a javascript view layer for the browser, which al
 
 And that's all very exciting!
 
-## Conclusion
+## Lessons learned from building the app
 While the app is simplistic, it demonstrates that Web and Mobile are converging. I believe that React Native can take us 80% of the way towards a proper native mobile experience... and that's a long way.
 
 Equally, Javascript (the love-it-hate-it programming language) can be used on the entire stack - in the database, the JSON data, the browser, and mobile. Full stack developers rejoice!
