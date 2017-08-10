@@ -12,4 +12,4 @@ Here's what my stack looks like (mostly):
 * Node REST API
 * MongoDB
 
-[gregoris.artemides@gmail.com](mailto:gregoris.artemides@gmail.com)
+[Contact me](mailto:gregoris.artemides@gmail.com)
