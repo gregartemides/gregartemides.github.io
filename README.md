@@ -1,9 +1,12 @@
 # Contacts app for Web and Mobile, with only Javascript!
 
+![web and mobile app](/images/web-and-mobile-app.jpg)
+
 It comprises 3 parts:
 1. [REST API(MongoDB, NodeJs, Express)](https://github.com/gregartemides/contacts-api)
 2. [Web App (React)](https://github.com/gregartemides/contacts-web-app)
 3. [Mobile App (React Native)](https://github.com/gregartemides/contacts-mobile-app)
+
 <!-- more -->
 
 ## A study in the convergence of web and mobile

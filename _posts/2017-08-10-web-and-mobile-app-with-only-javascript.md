@@ -3,6 +3,7 @@ layout: post
 title: Contacts app for Web and Mobile, with only Javascript!
 published: true
 ---
+![web and mobile app](/images/web-and-mobile-app.jpg)
 
 It comprises 3 parts:
 1. [REST API(MongoDB, NodeJs, Express)](https://github.com/gregartemides/contacts-api)
