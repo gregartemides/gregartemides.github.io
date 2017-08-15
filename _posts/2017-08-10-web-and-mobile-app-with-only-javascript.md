@@ -7,8 +7,8 @@ published: true
 
 It comprises 3 parts:
 1. [REST API(MongoDB, NodeJs, Express)](https://github.com/gregartemides/contacts-api)
-2. [Web App (React)](https://github.com/gregartemides/contacts-web-app) [demo](https://codepen.io/gregartemides/details/WEEPYJ/)
-3. [Mobile App (React Native)](https://github.com/gregartemides/contacts-mobile-app) [demo](https://expo.io/@gregartemides/Contacts-CRUD-RESTful)
+2. [Web App (React)](https://github.com/gregartemides/contacts-web-app) | [demo](https://codepen.io/gregartemides/details/WEEPYJ/)
+3. [Mobile App (React Native)](https://github.com/gregartemides/contacts-mobile-app) | [demo](https://expo.io/@gregartemides/Contacts-CRUD-RESTful)
 <!-- more -->
 
 ## A study in the convergence of web and mobile
